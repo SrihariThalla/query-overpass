@@ -2,7 +2,7 @@ var osmtogeojson = require('osmtogeojson'),
     querystring = require('querystring'),
     request = require('request'),
     concat = require('concat-stream'),
-    JSONStream = require('JSONStream');
+    JSONStream = require('@sriharithalla/jsonstream');
 
 module.exports = function(query, cb, options) {
     options = options || {};
