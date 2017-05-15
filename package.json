@@ -1,6 +1,6 @@
 {
   "name": "@sriharithalla/query-overpass",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Make queries to OpenStreetMap's overpass API and output as GeoJSON",
   "repository": "git@github.com:SrihariThalla/query-overpass.git",
   "main": "index.js",
